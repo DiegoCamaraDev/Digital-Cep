@@ -1,1 +1,1 @@
-# Digiral CEP
+# Digital CEP
